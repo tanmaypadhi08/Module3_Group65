@@ -44,7 +44,7 @@ Remote keyless entry (RKE) system is a system designed to remotely lock or unloc
 * issues of engine running after parking the car
 * Beyond the certain distance we can't unlock or lock it.
 
-## OPPURTUNITIES
+## OPPORTUNITIES
 * Advancement in Technology.
 * It can provide to not only large automobiles but also for small ones when there is theft of vehicles.
 
