@@ -135,7 +135,7 @@ int encrypt() // function made by K Mohammad Habeeb
 
       GpioLed3.pGPIOx = GPIOD;
       GpioLed3.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_15;     // PIN D15 is Blue LED
-      GpioLed3.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUT;
+      GpioLed3.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUT;       // This logic is given by K Mohammad Habib
       GpioLed3.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_FAST;
       GpioLed3.GPIO_PinConfig.GPIO_PinOPType = GPIO_OP_TYPE_PP;
       GPIO_PeriClockControl(GPIOD, ENABLE);
