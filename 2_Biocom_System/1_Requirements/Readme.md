@@ -27,7 +27,7 @@ Typical BiCom status information transmitted to the keyfob are:
 |---- |----|
 |LLR1 |The system should check window status when blue switch is pressed once|
 |LLR2 |The system should check alarm status when the blue switch is pressed twice|
-|LLR3 |The system should It shall get the battery information when the blue switch is pressed three times|
+|LLR3 |The system should shall get the battery information when the blue switch is pressed three times|
 |LLR4 |The system should check the door status when the blue switch is pressed four times|
 
 
