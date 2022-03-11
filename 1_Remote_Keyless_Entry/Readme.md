@@ -5,7 +5,7 @@ Often in the modern day world we have seen vehicles which no more require an ent
 On some mini vans, the power sliding doors can be opened/closed remotely. Some cars will also close any open windows and roof when remotely locking the car. Some remote keyless fobs also feature a red panic button which activates the car alarm as a standard feature.
 
 This Project is Made by
-Tanmay Padhi - 99007482
-Sharath Kulkarni - 99007894
-Anurag Tiwari - 99007481
-K Mohammad Habeeb - 99007895
+* Tanmay Padhi - 99007482 
+* Sharath Kulkarni - 99007894
+* Anurag Tiwari - 99007481
+* K Mohammad Habeeb - 99007895
