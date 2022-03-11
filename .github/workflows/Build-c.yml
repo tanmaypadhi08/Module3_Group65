@@ -1,0 +1,17 @@
+name: Build-C
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: make all
+      run: make all -C 1_Remote_Keyless_Entry/3_Implementation
