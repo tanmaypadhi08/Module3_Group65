@@ -3,9 +3,9 @@
 1. [DESCRIPTION](#1-description)
 2. [REQUIREMENTS](#2-requirements)
     
-    2.1. [HIGH LEVEL REQUIREMENTS](#21-high-level-requirments)
+    2.1. [HIGH LEVEL REQUIREMENTS](#21-high-level-requirements)
    
-    2.2. [LOW LEVEL REQUIREMENTS](#22-low-level-requirments)
+    2.2. [LOW LEVEL REQUIREMENTS](#22-low-level-requirements)
  
 3. [SWOT ANALYSIS](#3-swot-analysis)
 4. [4W and 1H](#4-4w-and-1h)
