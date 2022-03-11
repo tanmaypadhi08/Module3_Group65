@@ -30,3 +30,44 @@ Remote keyless entry (RKE) system is a system designed to remotely lock or unloc
 |LLR02|IF USER INPUT IS PRESSED TWICE, ALL 4 LED SHOULD TURN OFF SIMULTANEOUSLY|YES|
 |LLR03|IF USER INPUT IS PRESSED THRICE, ALL 4 LED SHOULD TURN ON IN CLOCKWISE MANNER (GREEN->ORANGE->RED->BLUE->GREEN)|YES|
 |LLR04|IF USER INPUT IS PRESSED FOUR TIMES, ALL 4 LED SHOULD TURN ON IN ANTI-CLOCKWISE MANNER (GREEN->BLUE->RED->ORANGE->GREEN)|YES|
+
+# SWOT ANALYSIS
+
+## STRENGTH
+* Remote Starting
+* Time is saved during urgent situation
+* Support for Effecient operation.
+
+## WEAKNESS
+* cost of system may be increased
+* complex System
+* issues of engine running after parking the car
+
+## OPPURTUNITIES
+* Advancement in Technology.
+
+## THREAT
+* Targated Attacks
+* Identity Theft
+
+# 4W's And 1H
+
+## Who???
+
+* This system is used by people to lock/unlock car
+
+## What???
+
+* This is an keyless entry which can lock/unlock the cars without Mechanical key
+
+## When???
+
+* This system can be used whenever there is the need of locking/unlocking of car
+
+## Where???
+
+* This System can be used in Automotives
+
+## How???
+
+* This system works on buttons when lock button is pressed the car locks and if unlock button is pressed the car unlocks.
