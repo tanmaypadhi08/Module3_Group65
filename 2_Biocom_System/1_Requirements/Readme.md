@@ -1,3 +1,22 @@
+# TABLE OF CONTENTS
+
+1. [ABSTRACT](#1-abstract)
+2. [DESCRIPTION](#2-description)
+3. [REQUIREMENTS](#3-requirements)
+    
+    3.1. [HIGH LEVEL REQUIREMENTS](#31-high-level-requirements)
+   
+    3.2. [LOW LEVEL REQUIREMENTS](#32-low-level-requirements)
+ 
+4. [SWOT ANALYSIS](#4-swot-analysis)
+5. [4W and 1H](#5-4w-and-1h)
+
+# 1 ABSTRACT
+
+Often in the modern day world we have seen vehicles which no more require an entry key to turn on the vehicle. This highlights the mechanism of remote keyless system which unlocks the doors, and a remote keyless ignition system (RKI), which starts the engine.The system signals that it has either locked or unlocked the car usually through some fairly discreet combination of flashing vehicle lamps, a distinctive sound other than the horn, or some usage of the horn itself. A typical setup on cars is to have the horn or other sound chirp twice to signify that the car has been unlocked, and chirp once to indicate the car has been locked. The functions of a remote keyless entry system are contained on a key fob or built into the ignition key handle itself. Buttons are dedicated to locking or unlocking the doors and opening the trunk or tailgate. 
+
+On some mini vans, the power sliding doors can be opened/closed remotely. Some cars will also close any open windows and roof when remotely locking the car. Some remote keyless fobs also feature a red panic button which activates the car alarm as a standard feature.
+
 # DESCRIPTION
 
 A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system. Here it is similar to RKE where it is used for locking and unlocking of automobiles but there it is only of unidirectional but here it is used as bidirectional means here BiCom operates by radio waves on a particular frequency bidirectionally unlike RKE where it acts unidirectionally here it also provide entire car status on a LED where we can manage all the operations of an automobile.
