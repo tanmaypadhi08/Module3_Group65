@@ -10,7 +10,7 @@
 
 # STRUCTURAL DIAGRAM
 
-## HIGHLEVEL DIAGRAM
+## HIGH LEVEL DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/98815562/157878910-c9eaedda-6e90-4244-aaf1-14f8ca0eee60.png)
 
