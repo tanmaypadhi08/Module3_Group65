@@ -45,13 +45,13 @@ Typical BiCom status information transmitted to the keyfob are:
 * issues of engine running after parking the car
 * Beyond the certain distance we can't unlock or lock it.
 
-## OPPURTUNITIES
+## OPPORTUNITIES
 * Advancement in Technology.
 * It can provide to not only large automobiles but also for small ones when there is theft of vehicles.
 
 ## THREAT
-* Targated Attacks
-* Identity Theft
+* Targeted Attacks
+* Identify Theft
 
 # 4W's And 1H
 
@@ -61,11 +61,11 @@ Typical BiCom status information transmitted to the keyfob are:
 
 ## What???
 
-* This is an keyless entry which can lock/unlock the cars without Mechanical key
+* This is an keyless entry which can lock/unlock the cars without mechanical key
 
 ## When???
 
-* This system can be used whenever there is the need of locking/unlocking of car
+* This system can be used whenever there is the need of locking/unlocking of car 
 
 ## Where???
 
