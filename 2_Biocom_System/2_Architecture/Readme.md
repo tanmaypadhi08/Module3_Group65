@@ -9,5 +9,6 @@
 
 # STRUCTURAL DIAGRAM
 
-## HIGH LEVEL DIAGRAM
+## ![image](https://user-images.githubusercontent.com/98815562/157904691-e18973e0-078c-45dc-a2fe-ab6df827c0ad.png)
+
 
