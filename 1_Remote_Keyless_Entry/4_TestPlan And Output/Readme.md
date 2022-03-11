@@ -3,12 +3,12 @@
 ## High Level Test:
 
 |Test id |Description |expected i/p |expected o/p |Actuall o/p |pass/fail |            
-|-------------------------------------------------------------------------|
-|HLT1 |Car lock |Lock button is pressed |locked |locked |pass ✅ |
-|HLT2 |Car unlock |unlock button is pressed |unlock |unlock |pass ✅ |
-|HLT3 |Alarm(Activation/Deactivation) |Activation/Deactivation button is pressed |Alarm(Activated/Deactivated) |Alarm(Activated/Deactivated) |pass ✅ |
-|HLT4 |Approach Lights |the button is pressed |Approach lights ON |Approach lights ON |pass ✅ |
-|HLT5 |Encryption|- |Pattern |Pattern |pass ✅|
+|--------|-----------------------------------------------------------------|
+|HLR1 |Car lock |Lock button is pressed |locked |locked |pass ✅ |
+|HLR2 |Car unlock |unlock button is pressed |unlock |unlock |pass ✅ |
+|HLR3 |Alarm(Activation/Deactivation) |Activation/Deactivation button is pressed |Alarm(Activated/Deactivated) |Alarm(Activated/Deactivated) |pass ✅ |
+|HLR4 |Approach Lights |the button is pressed |Approach lights ON |Approach lights ON |pass ✅ |
+|HLR5 |Encryption|- |Pattern |Pattern |pass ✅|
 
 
 ## Low Level Test:
